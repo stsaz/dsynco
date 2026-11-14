@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=dsynco
+GenericName=Directory synchronizer
+Comment=Directory synchronizer
+Exec=dsynco-gui
+Icon=dsynco
+Type=Application
+Categories=Utility
